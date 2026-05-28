@@ -14,7 +14,7 @@ BROWSER_HEADLESS = os.getenv("BROWSER_HEADLESS", "true").lower() == "true"
 BROWSER_TIMEOUT = int(os.getenv("BROWSER_TIMEOUT", "30000"))  # milliseconds
 
 # Maqsadli sayt URL (o'zgartirish mumkin)
-TARGET_URL = os.getenv("TARGET_URL", "https://example.com")
+TARGET_URL = os.getenv("TARGET_URL", "https://tronpick.io")
 
 # Persistent context uchun brauzer profil katalogi
 BROWSER_PROFILES_DIR = os.getenv("BROWSER_PROFILES_DIR", "./browser_profiles")
