@@ -4,7 +4,7 @@ import os
 BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
 
 # 2Captcha API kaliti
-TWO_CAPTCHA_API_KEY = os.getenv("TWO_CAPTCHA_API_KEY", "YOUR_2CAPTCHA_API_KEY")
+TWO_CAPTCHA_API_KEY = os.getenv("TWO_CAPTCHA_API_KEY", "97a30f5a14f8f97d827708fe731c60cf")
 
 # Ma'lumotlar bazasi fayli joylashuvi
 DATABASE_PATH = os.getenv("DATABASE_PATH", "bot_database.db")
