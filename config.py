@@ -1,7 +1,7 @@
 import os
 
 # Telegram Bot Token - .env yoki muhit o'zgaruvchisidan olish
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8669086355:AAERbWsC_W7bPPUhbaO1-4yi_W74HsaRJE0")
 
 # 2Captcha API kaliti
 TWO_CAPTCHA_API_KEY = os.getenv("TWO_CAPTCHA_API_KEY", "97a30f5a14f8f97d827708fe731c60cf")
